@@ -1,0 +1,69 @@
+version: 1
+title: 'Taos Geschichtengarten: Die Kerbe im Boot'
+slug: translation-50-de-3e70b2
+summary: Das Bühnenschwert fällt neben einer Weide ins Wasser. Ahe merkt sich nicht
+  das Ufer, sondern macht eine Kerbe ins Boot. Am Steg ist die Kerbe noch da. Wo bleibt
+  das Schwert? Sechs Szenen über bewegliche und feste Anhaltspunkte.
+cover_color: '#458f87'
+cover_asset: assets/e147611e82974455f29228b41badc0562f0cd320c7ebe1171f69e4dce29add31.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: de
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: e953748a881de97edbc56fa8c141b0e9380f7c1fdf16a1b8bc95c4e9a0d05e66
+  source_novel_id: 50
+  source_slug: novel-6c23df67-e73755
+  source_title: 小桃的成語小院：刻舟求劍
+  source_version_id: 90
+  target_language: de
+  translator: Humanread Founder
+chapters:
+- id: 851
+  title: Neben der Weide
+  position: 1
+  file: chapters/0001-851.html
+  format: sandbox-html-css
+  share_card: null
+- id: 852
+  title: Nach dem Platschen
+  position: 2
+  file: chapters/0002-852.html
+  format: sandbox-html-css
+  share_card: null
+- id: 853
+  title: Eine beruhigende Kerbe
+  position: 3
+  file: chapters/0003-853.html
+  format: sandbox-html-css
+  share_card: null
+- id: 854
+  title: Die Kerbe fährt mit
+  position: 4
+  file: chapters/0004-854.html
+  format: sandbox-html-css
+  share_card: null
+- id: 855
+  title: Unter der Kerbe ist nichts
+  position: 5
+  file: chapters/0005-855.html
+  format: sandbox-html-css
+  share_card: null
+- id: 856
+  title: Anders hinschauen
+  position: 6
+  file: chapters/0006-856.html
+  format: sandbox-html-css
+  share_card: null
